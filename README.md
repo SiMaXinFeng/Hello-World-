@@ -1,2 +1,4 @@
-# Hello-World-
-显示hello world的程序（
+# Hello World
+显示Hello World的滞涨程序（
+
+based on c++
